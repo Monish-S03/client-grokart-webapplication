@@ -1,23 +1,68 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+# # dependencies
+# /node_modules
+# /.pnp
+# .pnp.js
 
-# testing
-/coverage
+# # testing
+# /coverage
 
-# production
-/build
+# # production
+# /build
 
-# misc
+# # misc
+# .DS_Store
+# .env.local
+# .env.development.local
+# .env.test.local
+# .env.production.local
+
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
+
+
+
+
+
+
+
+
+# --------------------------------------------------
+# 💡 General Info
+# See https://help.github.com/articles/ignoring-files/
+
+# --------------------------------------------------
+# 📦 Node.js (Backend)
+node_modules/
+.env
+logs
+*.log
+
+# --------------------------------------------------
+# ⚛️ React (Frontend)
+react-mysql-crud-client/node_modules/
+react-mysql-crud-client/.env
+react-mysql-crud-client/.pnp
+react-mysql-crud-client/pnp.js
+react-mysql-crud-client/coverage/
+react-mysql-crud-client/build/
+react-mysql-crud-client/npm-debug.log*
+react-mysql-crud-client/yarn-debug.log*
+react-mysql-crud-client/yarn-error.log*
+
+# Optional local React env files
+react-mysql-crud-client/.env.local
+react-mysql-crud-client/.env.development.local
+react-mysql-crud-client/.env.test.local
+react-mysql-crud-client/.env.production.local
+
+# --------------------------------------------------
+# 🧪 Test Coverage
+coverage/
+
+# --------------------------------------------------
+# 💻 OS-specific files
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+Thumbs.db
