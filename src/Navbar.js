@@ -59,7 +59,7 @@ const Navbar = () => {
             )}
           </div>
         </div>
-        <Link to="/admin-login">Admin Login</Link>
+        <Link to="/admin-login" className="nav-link">Admin Login</Link>
       </div>
 
       {/* Mobile Toggle */}
