@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/client-grokart-webapplication/static/css/main.46252e64.css",
+    "main.css": "/client-grokart-webapplication/static/css/main.f148a89b.css",
     "main.js": "/client-grokart-webapplication/static/js/main.825e7a41.js",
     "static/media/pro17.jpg": "/client-grokart-webapplication/static/media/pro17.fd9ae42b7c4a39f488d4.jpg",
     "static/media/slide3.jpg": "/client-grokart-webapplication/static/media/slide3.cef9cdee39cc84d49c16.jpg",
@@ -31,11 +31,11 @@
     "static/media/pro11.webp": "/client-grokart-webapplication/static/media/pro11.39a643b75ba13e3d41fd.webp",
     "static/media/pro6.webp": "/client-grokart-webapplication/static/media/pro6.1268cf0c207700d23782.webp",
     "index.html": "/client-grokart-webapplication/index.html",
-    "main.46252e64.css.map": "/client-grokart-webapplication/static/css/main.46252e64.css.map",
+    "main.f148a89b.css.map": "/client-grokart-webapplication/static/css/main.f148a89b.css.map",
     "main.825e7a41.js.map": "/client-grokart-webapplication/static/js/main.825e7a41.js.map"
   },
   "entrypoints": [
-    "static/css/main.46252e64.css",
+    "static/css/main.f148a89b.css",
     "static/js/main.825e7a41.js"
   ]
 }
