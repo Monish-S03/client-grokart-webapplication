@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/client-grokart-webapplication/static/css/main.46252e64.css",
+    "main.js": "/client-grokart-webapplication/static/js/main.3b77d4a4.js",
+    "static/media/pro17.jpg": "/client-grokart-webapplication/static/media/pro17.fd9ae42b7c4a39f488d4.jpg",
+    "static/media/slide3.jpg": "/client-grokart-webapplication/static/media/slide3.cef9cdee39cc84d49c16.jpg",
+    "static/media/bootstrap-icons.woff?": "/client-grokart-webapplication/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/pro16.jpg": "/client-grokart-webapplication/static/media/pro16.35d26290a82b1265f8dd.jpg",
+    "static/media/pro13.png": "/client-grokart-webapplication/static/media/pro13.7cf18b03b6db18f328df.png",
+    "static/media/pro8.jpg": "/client-grokart-webapplication/static/media/pro8.3de4cab9457898de657f.jpg",
+    "static/media/bootstrap-icons.woff2?": "/client-grokart-webapplication/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/pro4.jpg": "/client-grokart-webapplication/static/media/pro4.255759d6bac2de0da724.jpg",
+    "static/media/slide1.webp": "/client-grokart-webapplication/static/media/slide1.9dc9ad3822bed6ee37b8.webp",
+    "static/media/pro1.jpg": "/client-grokart-webapplication/static/media/pro1.47164ff8ed40db0ef0d3.jpg",
+    "static/media/pro14.webp": "/client-grokart-webapplication/static/media/pro14.a810bdad433500a3a9cf.webp",
+    "static/media/pro10.jpg": "/client-grokart-webapplication/static/media/pro10.2108a1d611a80d4dad07.jpg",
+    "static/media/pro20.webp": "/client-grokart-webapplication/static/media/pro20.f2d89fab69ceaac60cb9.webp",
+    "static/media/pro3.jpg": "/client-grokart-webapplication/static/media/pro3.f12d2d89e84a8b2b9a3e.jpg",
+    "static/media/pro12.jpg": "/client-grokart-webapplication/static/media/pro12.1e8bc5b5366000503f57.jpg",
+    "static/media/slide6.jpg": "/client-grokart-webapplication/static/media/slide6.d5525c1cbaaf407f259c.jpg",
+    "static/media/slide5.jpg": "/client-grokart-webapplication/static/media/slide5.6362c0ae3054a28af466.jpg",
+    "static/media/pro2.jpg": "/client-grokart-webapplication/static/media/pro2.014fea6da67b8b1eb4bb.jpg",
+    "static/media/pro7.webp": "/client-grokart-webapplication/static/media/pro7.2ab8ad0843c383bd25be.webp",
+    "static/media/pro19.jpg": "/client-grokart-webapplication/static/media/pro19.ff06bf9160aafa97986d.jpg",
+    "static/media/slide4.webp": "/client-grokart-webapplication/static/media/slide4.f5a9fdac702d6b8f784f.webp",
+    "static/media/pro9.webp": "/client-grokart-webapplication/static/media/pro9.e0312dc7465d716e83d4.webp",
+    "static/media/pro5.webp": "/client-grokart-webapplication/static/media/pro5.32a221a51bffddb51c58.webp",
+    "static/media/slide2.jpg": "/client-grokart-webapplication/static/media/slide2.c1000b0fe331277b53aa.jpg",
+    "static/media/pro18.jpg": "/client-grokart-webapplication/static/media/pro18.7af49c40aa29c93594bb.jpg",
+    "static/media/pro15.webp": "/client-grokart-webapplication/static/media/pro15.9180e73fa0a588e199c3.webp",
+    "static/media/pro11.webp": "/client-grokart-webapplication/static/media/pro11.39a643b75ba13e3d41fd.webp",
+    "static/media/pro6.webp": "/client-grokart-webapplication/static/media/pro6.1268cf0c207700d23782.webp",
+    "index.html": "/client-grokart-webapplication/index.html",
+    "main.46252e64.css.map": "/client-grokart-webapplication/static/css/main.46252e64.css.map",
+    "main.3b77d4a4.js.map": "/client-grokart-webapplication/static/js/main.3b77d4a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46252e64.css",
+    "static/js/main.3b77d4a4.js"
+  ]
+}
