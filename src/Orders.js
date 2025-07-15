@@ -12,7 +12,8 @@ const Orders = () => {
     const fetchOrders = async () => {
       try {
         const encodedEmail = encodeURIComponent(userEmail);
-        const res = await fetch(`https://server-grokart-web-application.onrender.com/${encodedEmail}`);
+const res = await fetch(`https://server-grokart-web-application.onrender.com/api/orders/${encodedEmail}`);
+
 
         if (!res.ok) {
           const text = await res.text();
@@ -40,7 +41,7 @@ const Orders = () => {
     console.log("🧪 Trying to cancel order ID:", orderId);
 
     try {
-      const res = await fetch(`http://localhost:5000/api/orders/${orderId}`, {
+      const res = await fetch(`https://server-grokart-web-application.onrender.com/api/orders/${orderId}`, {
         method: "DELETE",
       });
 
