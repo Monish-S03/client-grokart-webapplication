@@ -10,7 +10,7 @@ const AdminUserList = () => {
       const token = localStorage.getItem("token");
 
       try {
-        const response = await fetch("http://localhost:5000/api/admin/users", {
+        const response = await fetch("https://server-grokart-web-application.onrender.com/api/admin/users", {
           headers: {
             Authorization: `Bearer ${token}`,
           },

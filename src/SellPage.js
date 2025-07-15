@@ -23,7 +23,7 @@ const BecomeSellerForm = () => {
     e.preventDefault();
 
     try {
-      const res = await fetch("http://localhost:5000/api/seller/apply", {
+      const res = await fetch("https://server-grokart-web-application.onrender.com/api/seller/apply", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

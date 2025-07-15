@@ -24,7 +24,7 @@ const UnifiedLogin = () => {
 
     // ✅ Normal User Login (via backend)
     try {
-      const res = await fetch("http://localhost:5000/api/login", {
+      const res = await fetch("https://server-grokart-web-application.onrender.com/api/login", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

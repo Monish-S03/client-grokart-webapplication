@@ -12,7 +12,7 @@ const Orders = () => {
     const fetchOrders = async () => {
       try {
         const encodedEmail = encodeURIComponent(userEmail);
-        const res = await fetch(`http://localhost:5000/api/orders/${encodedEmail}`);
+        const res = await fetch(`https://server-grokart-web-application.onrender.com/${encodedEmail}`);
 
         if (!res.ok) {
           const text = await res.text();

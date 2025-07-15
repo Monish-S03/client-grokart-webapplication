@@ -34,7 +34,7 @@ const ProductDetail = () => {
     };
 
     try {
-      const res = await axios.post("http://localhost:5000/api/orders", orderData, {
+      const res = await axios.post("https://server-grokart-web-application.onrender.com/api/orders", orderData, {
         headers: {
           Authorization: `Bearer ${token}`,
           "Content-Type": "application/json",
